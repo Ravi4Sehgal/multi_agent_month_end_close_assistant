@@ -1,0 +1,25 @@
+account_code,account_name,category,debit,credit,net_balance
+1001,Cash and Bank,Asset,6800000,0,6800000
+1002,Accounts Receivable,Asset,7900000,0,7900000
+1003,Inventory,Asset,11200000,0,11200000
+1004,Prepaid Expenses,Asset,290000,0,290000
+1005,Other Current Assets,Asset,175000,0,175000
+2001,Fixed Assets (Gross),Asset,45000000,0,45000000
+2002,Accumulated Depreciation,Asset,0,17250000,-17250000
+3001,Accounts Payable,Liability,0,4800000,-4800000
+3002,Accrued Expenses,Liability,0,1650000,-1650000
+3003,Short Term Borrowings,Liability,0,6000000,-6000000
+3004,Other Current Liabilities,Liability,0,880000,-880000
+4001,Long Term Debt,Liability,0,15500000,-15500000
+5001,Share Capital,Equity,0,10000000,-10000000
+5002,Retained Earnings,Equity,0,8200000,-8200000
+6001,Revenue - Products,Income,0,16200000,-16200000
+6002,Revenue - Services,Income,0,3100000,-3100000
+6003,Other Income,Income,0,410000,-410000
+7001,Cost of Goods Sold,Expense,9800000,0,9800000
+7002,Employee Costs,Expense,3750000,0,3750000
+7003,Rent and Utilities,Expense,590000,0,590000
+7004,Marketing Expenses,Expense,820000,0,820000
+7005,Depreciation,Expense,750000,0,750000
+7006,Finance Costs,Expense,510000,0,510000
+7007,Other Expenses,Expense,295000,0,295000
